@@ -1,0 +1,55 @@
+{
+  "DIPHENHYDRAMINE": [
+    {
+      "journal": "Journal of emergency nursing",
+      "date": "2019-01-01",
+      "source": "PubMed"
+    },
+    {
+      "journal": "Journal of emergency nursing",
+      "date": "2019-01-01",
+      "source": "PubMed"
+    },
+    {
+      "journal": "The Journal of pediatrics",
+      "date": "2019-02-01",
+      "source": "PubMed"
+    }
+  ],
+  "TETRACYCLINE": [
+    {
+      "journal": "Journal of food protection",
+      "date": "2020-01-01",
+      "source": "PubMed"
+    },
+    {
+      "journal": "American journal of veterinary research",
+      "date": "2020-02-01",
+      "source": "PubMed"
+    },
+    {
+      "journal": "Psychopharmacology",
+      "date": NaN,
+      "source": "PubMed"
+    }
+  ],
+  "ETHANOL": [
+    {
+      "journal": "Psychopharmacology",
+      "date": NaN,
+      "source": "PubMed"
+    }
+  ],
+  "EPINEPHRINE": [
+    {
+      "journal": "The journal of allergy and clinical immunology. In practice",
+      "date": "2020-01-02",
+      "source": "PubMed"
+    },
+    {
+      "journal": "The journal of allergy and clinical immunology. In practice",
+      "date": "2020-01-03",
+      "source": "PubMed"
+    }
+  ]
+}
