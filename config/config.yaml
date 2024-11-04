@@ -1,6 +1,0 @@
-data_paths:
-  drugs: "data/drugs.csv"
-  pubmed_csv: "data/pubmed.csv"
-  pubmed_json: "data/pubmed.json"
-  clinical_trials: "data/clinical_trials.csv"
-output_path: "output/graph.json"
